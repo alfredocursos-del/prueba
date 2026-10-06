@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma Integral de Servicios, Presupuestos y Chatbot Comercial",
+  "description": "Sitio web corporativo moderno con generador automático de presupuestos en PDF, chatbot comercial inteligente estilo WhatsApp y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
